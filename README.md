@@ -7,8 +7,6 @@
 ![](https://raw.githubusercontent.com/wataboru/wataboru/main/profile-summary-card-output/default/4-productive-time.svg)
 
 ## 🚀 Tech Stack
-<p align="center"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,vue,nuxtjs,dart,flutter,php,laravel,go,aws,firebase,heroku,vercel,github,githubactions,graphql,,docker,terraform,sentry,mysql,vscode&theme=light&perline=5" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,vue,nuxtjs,dart,flutter,php,laravel,go,aws,firebase,heroku,vercel,github,githubactions,graphql,,docker,terraform,sentry,mysql,vscode&theme=light&perline=12" />
+</a>
