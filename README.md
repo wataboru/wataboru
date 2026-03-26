@@ -8,5 +8,5 @@
 
 ## 🚀 Tech Stack
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,jest,react,nextjs,vue,nuxtjs,dart,flutter,php,laravel,go,aws,firebase,heroku,vercel,github,githubactions,graphql,docker,terraform,sentry,mysql,vscode&theme=light&perline=12" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwindcss,vite,dart,flutter,php,laravel,go,prisma,mysql,graphql,aws,firebase,supabase,docker,terraform,heroku,vercel,jest,sentry,bun,github,githubactions,vscode,neovim,notion,discord&theme=light&perline=12" />
 </a>
